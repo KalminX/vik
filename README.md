@@ -1,6 +1,6 @@
-# ✏️ MyTextEdit — A Minimalist Terminal Text Editor
+# ✏️ vik — A Minimalist Terminal Text Editor
 
-**MyTextEdit** is a lightweight, terminal-based text editor written in C, inspired by the [kilo text editor](https://viewsourcecode.org/snaptoken/kilo/). It’s a great learning project that explores low-level terminal handling, raw input processing, and text manipulation — all without relying on external libraries.
+**vik** is a lightweight, terminal-based text editor written in C, inspired by the [kilo text editor](https://viewsourcecode.org/snaptoken/kilo/). It’s a great learning project that explores low-level terminal handling, raw input processing, and text manipulation — all without relying on external libraries.
 
 ---
 
@@ -65,8 +65,8 @@ It closely follows the structure of the [kilo editor tutorial](https://viewsourc
 ## 📁 Folder Structure
 
 ```
-mytextedit/
-├── mytextedit.c       # Main source code
+vik/
+├── vik.c       # Main source code
 ├── Makefile
 ├── README.md
 ```
